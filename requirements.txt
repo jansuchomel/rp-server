@@ -1,0 +1,4 @@
+psycopg2==2.6.1
+autobahn==0.14.1
+rdflib==4.2.1
+rdflib-jsonld==0.4.0
